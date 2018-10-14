@@ -1,0 +1,32 @@
+body {
+   background-color: black;
+   text-align: center;
+   font-family: Verdana;
+}
+
+h1.discover {
+  Font-weight: Normal;
+  Font-size: 50px;
+  color: white;
+}
+
+h2.personal, h2.comingsoon {
+  Font-weight: 300;
+  Font-size: 42px;
+  color: white;
+}
+
+p {
+  font-size: 21px;
+  color: gray;
+}
+
+a.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p.copywright {
+  text-align: right;
+  font-color: gray;
+  }
